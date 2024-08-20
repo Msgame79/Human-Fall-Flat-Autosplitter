@@ -215,7 +215,7 @@ init		// called when the script finds the game process
 		current.unconsciousTime = memory.ReadValue<float>((IntPtr)vars.ptrHumanInstance + (int)vars.offsetUnconsciousTime);
 	}
 
-	refreshRate = 30;
+	refreshRate = 144;
 }
 
 start		// returning true starts the timer if not started
