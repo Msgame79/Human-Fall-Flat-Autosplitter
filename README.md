@@ -30,3 +30,4 @@ For any further questions, please navigate to the [Human: Fall Flat SRCOM Forum]
 Looking for pre-made splits, or tools that will allow you to see the exact collision of the end trigger as well as a speedometer for your character, or perhaps something else? Go to the [Human: Fall Flat SRCOM Resources](https://www.speedrun.com/human_fall_flat/resources) and take a look around!
 
 ###### Autosplitter & Readme written by Permamiss
+$$wealy$$
